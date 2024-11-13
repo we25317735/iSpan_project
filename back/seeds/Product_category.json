@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "淺中焙",
+        "type": "bean"
+    },
+    {
+        "id": "2",
+        "name": "中深焙",
+        "type": "bean"
+    },
+    {
+        "id": "3",
+        "name": "Panasonic",
+        "type": "machine"
+    },
+    {
+        "id": "4",
+        "name": "Nespresso",
+        "type": "machine"
+    },
+    {
+        "id": "5",
+        "name": "PHILIPS",
+        "type": "machine"
+    },
+    {
+        "id": "6",
+        "name": "其他",
+        "type": "other"
+    }
+]

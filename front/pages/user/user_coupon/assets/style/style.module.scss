@@ -1,0 +1,186 @@
+/* 最外框(包括 header) */
+#user-page {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  background-image: url('../img/bg-noise.png');
+
+  // ///////////
+  @media screen and (max-width: 390px) {
+    height: 100vh;
+    overflow: auto;
+  }
+
+  h1 {
+    background-color: #ffffff00;
+  }
+
+  /*包括會員資料 以下*/
+  #user-data {
+    width: 100%;
+    // height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    /* 內容開始 */
+    .tab-box {
+      width: 55vw;
+
+      @media screen and (max-width: 768px) {
+        width: 75vw;
+      }
+
+      @media screen and (max-width: 390px) {
+        height: 70vh;
+      }
+
+      .nav-tabs {
+        //ul標籤
+
+        li {
+          border-radius: 12px 12px 0 0;
+          background-color: #2b4f61;
+
+          @media screen and (max-width: 390px) {
+            margin: 8px;
+            border-radius: 0;
+          }
+        }
+
+        a {
+          font-size: 2rem;
+          color: #fff;
+        }
+
+        .active {
+          //選擇
+          border-radius: 12px 12px 0 0;
+          color: #000000;
+          background-color: #fff;
+
+          @media screen and (max-width: 390px) {
+            border-radius: 0;
+            box-shadow: -1px -1px 1px 1px #00000099;
+          }
+        }
+      }
+
+      .tab-content {
+        display: none;
+
+        &.active {
+          display: block;
+        }
+      }
+    }
+  }
+}
+
+/* 好康優惠 */
+#discounts {
+  width: 100%;
+  height: 65vh;
+
+  @media screen and (max-width: 391px) {
+    height: 55vh; // 配合 chrome
+  }
+
+  #coupon {
+    width: auto;
+    height: 130px;
+    overflow: hidden;
+    background-color: #fff;
+
+    @media screen and (max-width: 390px) {
+      height: 10vh;
+    }
+
+    // 初始化
+    p {
+      margin: 0;
+    }
+    // 初始化結束
+
+    .card-img-box {
+      max-width: 15vw;
+
+      img {
+        max-width: 100%;
+        height: 100%;
+        object-fit: fill;
+      }
+    }
+
+    .card-content {
+      width: 40vw;
+      background-color: #fff;
+
+      @media screen and (max-width: 768px) {
+        width: 100%;
+      }
+
+      // 折扣數字
+      .discount-number {
+        font-size: 3.6rem;
+
+        @media screen and (max-width: 390px) {
+          font-size: 1.2rem;
+          font-weight: bold;
+        }
+      }
+
+      // 可使用 按鈕
+      .usable-btn {
+        padding: 8px 10px;
+        border: 2px solid #2f3131;
+        border-radius: 15px;
+        font-size: 2rem;
+        background-color: #fff;
+
+        @media screen and (max-width: 390px) {
+          font-size: 1.2rem;
+          padding: 4px 5px;
+          margin-top: 0 !important;
+        }
+      }
+
+      // 優惠券的名稱
+      .coupon-name {
+        span {
+          padding: 2px 8px;
+          font-size: 1.6rem;
+          color: white;
+          background-color: #2b4f61;
+
+          @media screen and (max-width: 390px) {
+            padding: 2px;
+            font-size: 1.2rem;
+          }
+        }
+      }
+
+      // 條件
+      .condition {
+        font-size: 1.6rem;
+        color: #2f3131ad;
+
+        @media screen and (max-width: 390px) {
+          font-size: 1.2rem;
+        }
+      }
+
+      // 日期
+      .date {
+        font-size: 1.6rem;
+        color: #4f4b4b4e;
+
+        @media screen and (max-width: 390px) {
+          font-size: 1.2rem;
+        }
+      }
+    }
+  }
+}

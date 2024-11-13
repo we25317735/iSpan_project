@@ -1,0 +1,282 @@
+[
+    {
+        "product_id": "2",
+        "detail_img": "light-d1.webp"
+    },
+    {
+        "product_id": "2",
+        "detail_img": "light-d2.webp"
+    },
+    {
+        "product_id": "2",
+        "detail_img": "light-d3.webp"
+    },
+    {
+        "product_id": "3",
+        "detail_img": "light-d1.webp"
+    },
+    {
+        "product_id": "3",
+        "detail_img": "light-d2.webp"
+    },
+    {
+        "product_id": "3",
+        "detail_img": "light-d6.webp"
+    },
+    {
+        "product_id": "4",
+        "detail_img": "light-d4.webp"
+    },
+    {
+        "product_id": "4",
+        "detail_img": "light-d5.webp"
+    },
+    {
+        "product_id": "4",
+        "detail_img": "light-d6.webp"
+    },
+    {
+        "product_id": "6",
+        "detail_img": "light-d7.webp"
+    },
+    {
+        "product_id": "6",
+        "detail_img": "light-d8.webp"
+    },
+    {
+        "product_id": "6",
+        "detail_img": "light-d9.webp"
+    },
+    {
+        "product_id": "7",
+        "detail_img": "light-d10.jpg"
+    },
+    {
+        "product_id": "7",
+        "detail_img": "light-d11.jpg"
+    },
+    {
+        "product_id": "9",
+        "detail_img": "light-d12.webp"
+    },
+    {
+        "product_id": "9",
+        "detail_img": "light-d13.webp"
+    },
+    {
+        "product_id": "9",
+        "detail_img": "light-d14.webp"
+    },
+    {
+        "product_id": "10",
+        "detail_img": "light-d15.webp"
+    },
+    {
+        "product_id": "10",
+        "detail_img": "light-d16.webp"
+    },
+    {
+        "product_id": "10",
+        "detail_img": "light-d17.webp"
+    },
+    {
+        "product_id": "11",
+        "detail_img": "light-d18.webp"
+    },
+    {
+        "product_id": "11",
+        "detail_img": "light-d19.webp"
+    },
+    {
+        "product_id": "11",
+        "detail_img": "light-d20.webp"
+    },
+    {
+        "product_id": "13",
+        "detail_img": "light-d21.webp"
+    },
+    {
+        "product_id": "13",
+        "detail_img": "light-d22.webp"
+    },
+    {
+        "product_id": "13",
+        "detail_img": "light-d23.webp"
+    },
+    {
+        "product_id": "12",
+        "detail_img": "light-d24.webp"
+    },
+    {
+        "product_id": "12",
+        "detail_img": "light-d25.webp"
+    },
+    {
+        "product_id": "12",
+        "detail_img": "light-d26.webp"
+    },
+    {
+        "product_id": "14",
+        "detail_img": "light-d27.webp"
+    },
+    {
+        "product_id": "15",
+        "detail_img": "light-d28.webp"
+    },
+    {
+        "product_id": "16",
+        "detail_img": "light-d29.webp"
+    },
+    {
+        "product_id": "17",
+        "detail_img": "light-d30.webp"
+    },
+    {
+        "product_id": "18",
+        "detail_img": "light-d31.webp"
+    },
+    {
+        "product_id": "19",
+        "detail_img": "light-d32.webp"
+    },
+    {
+        "product_id": "20",
+        "detail_img": "light-d33.webp"
+    },
+    {
+        "product_id": "21",
+        "detail_img": "light-d34.webp"
+    },
+    {
+        "product_id": "22",
+        "detail_img": "bd-d1.webp"
+    },
+    {
+        "product_id": "22",
+        "detail_img": "bd-d2.webp"
+    },
+    {
+        "product_id": "22",
+        "detail_img": "bd-d3.webp"
+    },
+    {
+        "product_id": "23",
+        "detail_img": "bd-d4.webp"
+    },
+    {
+        "product_id": "23",
+        "detail_img": "bd-d5.webp"
+    },
+    {
+        "product_id": "23",
+        "detail_img": "bd-d6.webp"
+    },
+    {
+        "product_id": "25",
+        "detail_img": "bd-d7.webp"
+    },
+    {
+        "product_id": "25",
+        "detail_img": "bd-d8.webp"
+    },
+    {
+        "product_id": "25",
+        "detail_img": "bd-d9.webp"
+    },
+    {
+        "product_id": "27",
+        "detail_img": "bd-d10.jpg"
+    },
+    {
+        "product_id": "28",
+        "detail_img": "bd-d11.jpg"
+    },
+    {
+        "product_id": "30",
+        "detail_img": "bd-d12.webp"
+    },
+    {
+        "product_id": "30",
+        "detail_img": "bd-d13.webp"
+    },
+    {
+        "product_id": "31",
+        "detail_img": "bd-d14.webp"
+    },
+    {
+        "product_id": "42",
+        "detail_img": "pa-d1.webp"
+    },
+    {
+        "product_id": "42",
+        "detail_img": "pa-d2.webp"
+    },
+    {
+        "product_id": "42",
+        "detail_img": "pa-d3.webp"
+    },
+    {
+        "product_id": "43",
+        "detail_img": "pa-d4.jpg"
+    },
+    {
+        "product_id": "45",
+        "detail_img": "pa-d5.jpg"
+    },
+    {
+        "product_id": "46",
+        "detail_img": "pa-d1.webp"
+    },
+    {
+        "product_id": "47",
+        "detail_img": "pa-d1.webp"
+    },
+    {
+        "product_id": "49",
+        "detail_img": "pa-d6.jpg"
+    },
+    {
+        "product_id": "51",
+        "detail_img": "pa-d6.jpg"
+    },
+    {
+        "product_id": "56",
+        "detail_img": "pa-d6.jpg"
+    },
+    {
+        "product_id": "57",
+        "detail_img": "pa-d4.jpg"
+    },
+    {
+        "product_id": "58",
+        "detail_img": "pa-d5.jpg"
+    },
+    {
+        "product_id": "61",
+        "detail_img": "pa-d6.jpg"
+    },
+    {
+        "product_id": "62",
+        "detail_img": "ne-d1.jpg"
+    },
+    {
+        "product_id": "63",
+        "detail_img": "ne-d2.jpg"
+    },
+    {
+        "product_id": "64",
+        "detail_img": "ne-d3.jpg"
+    },
+    {
+        "product_id": "65",
+        "detail_img": "ne-d4.jpg"
+    },
+    {
+        "product_id": "66",
+        "detail_img": "ne-d5.jpg"
+    },
+    {
+        "product_id": "67",
+        "detail_img": "ne-d6.webp"
+    }
+]

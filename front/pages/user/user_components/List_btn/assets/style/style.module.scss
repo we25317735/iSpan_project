@@ -1,0 +1,40 @@
+.nav-tabs {
+  //ul標籤
+
+  li {
+    border-radius: 12px 12px 0 0;
+    background-color: #2b4f61;
+
+    &:hover {
+      background-color: #e0dfdf;
+    }
+
+    @media screen and (max-width: 391px) {
+      margin: 8px;
+      border-radius: 0;
+    }
+  }
+
+  a {
+    font-size: 2rem;
+    color: #fff;
+
+    &:hover {
+      font-weight: 600;
+      color: #000000;
+    }
+  }
+
+  .active {
+    //選擇
+    border-radius: 12px 12px 0 0;
+    font-weight: 600;
+    color: #000000;
+    background-color: #fff;
+
+    @media screen and (max-width: 391px) {
+      border-radius: 0;
+      box-shadow: -1px -1px 1px 1px #00000099;
+    }
+  }
+}

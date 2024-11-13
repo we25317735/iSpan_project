@@ -1,0 +1,72 @@
+[
+  {
+    "id": 6,
+    "sn": "bcda2244-cc91-4cb6-ada8-cd19dc4822a0",
+    "name": "我是課程1我是課程1我是課程1",
+    "photos": "t1.jpg,t3.jpg,t5.jpg",
+    "stock": 80,
+    "price": 1000,
+    "info": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "brand_id": 1,
+    "cat_id": 8,
+    "time": "2024/09/15",
+    "place": "台北場",
+    "size": "4,1,3,2"
+  },
+  {
+    "id": 7,
+    "sn": "d769fb3e-9bd4-4003-8608-0ec6583d99ac",
+    "name": "我是課程2我是課程2我是課程2",
+    "photos": "t5.jpg,t4.jpg,t3.jpg",
+    "stock": 70,
+    "price": 2000,
+    "info": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "brand_id": 1,
+    "cat_id": 11,
+    "time": "2024/09/25",
+    "place": "新北場",
+    "size": "3,2"
+  },
+  {
+    "id": 8,
+    "sn": "1f9e5ca6-4384-49b7-ad21-484fb6e6fa4c",
+    "name": "我是課程3我是課程3我是課程3",
+    "photos": "t1.jpg,t4.jpg,t3.jpg",
+    "stock": 20,
+    "price": 3000,
+    "info": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "brand_id": 4,
+    "cat_id": 7,
+    "time": "2024/09/25",
+    "place": "新北場",
+    "size": "1,4,2"
+  },
+  {
+    "id": 9,
+    "sn": "1981df3d-99dc-4cba-a62e-ee015a51a19e",
+    "name": "我是課程4我是課程4我是課程4我是課程4",
+    "photos": "t4.jpg,t2.jpg,t3.jpg",
+    "stock": 70,
+    "price": 4000,
+    "info": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "brand_id": 1,
+    "cat_id": 6,
+    "time": "2024/09/25",
+    "place": "新北場",
+    "size": "1,2,3"
+  },
+  {
+    "id": 10,
+    "sn": "bf8f24e7-93cb-4f0d-913f-605acaff63b0",
+    "name": "我是課程5我是課程5我是課程5我是課程5",
+    "photos": "t2.jpg,t3.jpg,t5.jpg",
+    "stock": 80,
+    "price": 5000,
+    "info": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "brand_id": 4,
+    "cat_id": 9,
+    "time": "2024/09/25",
+    "place": "新北場",
+    "size": "4"
+  }
+]

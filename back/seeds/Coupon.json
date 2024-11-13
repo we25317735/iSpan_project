@@ -1,0 +1,11 @@
+[
+{"id":"1","name":"九折禮券","code":"off9","value":"0.9","type":"percent","create_time":null,"start_time":null,"end_time":null,"lastedit_time":null},
+{"id":"2","name":"八折禮券","code":"off8","value":"0.8","type":"percent","create_time":null,"start_time":null,"end_time":null,"lastedit_time":null},
+{"id":"3","name":"七折禮券","code":"off7","value":"0.7","type":"percent","create_time":null,"start_time":null,"end_time":null,"lastedit_time":null},
+{"id":"4","name":"六折禮券","code":"off6","value":"0.6","type":"percent","create_time":null,"start_time":null,"end_time":null,"lastedit_time":null},
+{"id":"5","name":"五折禮券","code":"off5","value":"0.5","type":"percent","create_time":null,"start_time":null,"end_time":null,"lastedit_time":null},
+{"id":"6","name":"一百折價券","code":"discount100","value":"100","type":"amount","create_time":null,"start_time":null,"end_time":null,"lastedit_time":null},
+{"id":"7","name":"五百折價券","code":"discount500","value":"500","type":"amount","create_time":null,"start_time":null,"end_time":null,"lastedit_time":null},
+{"id":"8","name":"一千折價券","code":"discount1000","value":"1000","type":"amount","create_time":null,"start_time":null,"end_time":null,"lastedit_time":null}
+]
+

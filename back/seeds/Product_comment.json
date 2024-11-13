@@ -1,0 +1,191 @@
+[
+    {
+        "user_id": "1",
+        "product_id": "1",
+        "score": "5",
+        "comment": "香氣濃郁，每口都回味無窮！",
+        "created_at": "2024/5/1"
+    },
+    {
+        "user_id": "2",
+        "product_id": "2",
+        "score": "4",
+        "comment": "這咖啡真的有驚喜，會回購",
+        "created_at": "2024/5/13"
+    },
+    {
+        "user_id": "3",
+        "product_id": "3",
+        "score": "4",
+        "comment": "咖啡很順口，香氣十足。",
+        "created_at": "2024/5/20"
+    },
+    {
+        "user_id": "4",
+        "product_id": "4",
+        "score": "3",
+        "comment": "淡淡的果香味，超棒的！",
+        "created_at": "2024/5/18"
+    },
+    {
+        "user_id": "5",
+        "product_id": "5",
+        "score": "5",
+        "comment": "香氣非常迷人，口感也很棒，香味持久，會再回購。",
+        "created_at": "2024/5/15"
+    },
+    {
+        "user_id": "6",
+        "product_id": "6",
+        "score": "5",
+        "comment": "非常順滑，喝了很滿足。",
+        "created_at": "2024/4/5"
+    },
+    {
+        "user_id": "7",
+        "product_id": "7",
+        "score": "3",
+        "comment": "果酸與苦味平衡得恰到好處。",
+        "created_at": "2024/4/26"
+    },
+    {
+        "user_id": "8",
+        "product_id": "8",
+        "score": "4",
+        "comment": "這是我喝過最好喝的咖啡。",
+        "created_at": "2024/5/24"
+    },
+    {
+        "user_id": "9",
+        "product_id": "9",
+        "score": "5",
+        "comment": "值得推薦，香味非常獨特。",
+        "created_at": "2024/3/9"
+    },
+    {
+        "user_id": "10",
+        "product_id": "1",
+        "score": "5",
+        "comment": "真的非常順口，不苦澀。",
+        "created_at": "2024/5/20"
+    },
+    {
+        "user_id": "11",
+        "product_id": "2",
+        "score": "2",
+        "comment": "濃郁的味道和香氣，超級棒。",
+        "created_at": "2024/5/18"
+    },
+    {
+        "user_id": "12",
+        "product_id": "3",
+        "score": "3",
+        "comment": "真的好好喝，尤其是餘韻。",
+        "created_at": "2024/5/15"
+    },
+    {
+        "user_id": "13",
+        "product_id": "4",
+        "score": "5",
+        "comment": "微酸的味道剛剛好，超讚！",
+        "created_at": "2024/4/5"
+    },
+    {
+        "user_id": "14",
+        "product_id": "5",
+        "score": "2",
+        "comment": "這款咖啡喝起來很有層次。",
+        "created_at": "2024/4/26"
+    },
+    {
+        "user_id": "15",
+        "product_id": "6",
+        "score": "5",
+        "comment": "咖啡豆品質很高，值得一試。",
+        "created_at": "2024/5/24"
+    },
+    {
+        "user_id": "16",
+        "product_id": "7",
+        "score": "3",
+        "comment": "香氣非常迷人，口感也很棒，香味持久，會再回購。",
+        "created_at": "2024/3/9"
+    },
+    {
+        "user_id": "17",
+        "product_id": "8",
+        "score": "4",
+        "comment": "淡淡的果香味，超棒的！",
+        "created_at": "2024/5/1"
+    },
+    {
+        "user_id": "18",
+        "product_id": "9",
+        "score": "5",
+        "comment": "微酸的味道剛剛好，超讚！",
+        "created_at": "2024/5/13"
+    },
+    {
+        "user_id": "19",
+        "product_id": "1",
+        "score": "4",
+        "comment": "咖啡豆品質很高，值得一試。",
+        "created_at": "2024/5/20"
+    },
+    {
+        "user_id": "20",
+        "product_id": "2",
+        "score": "5",
+        "comment": "微酸的味道剛剛好，超讚！",
+        "created_at": "2024/5/18"
+    },
+    {
+        "user_id": "21",
+        "product_id": "3",
+        "score": "5",
+        "comment": "濃郁的味道和香氣，超級棒。",
+        "created_at": "2024/3/9"
+    },
+    {
+        "user_id": "22",
+        "product_id": "4",
+        "score": "5",
+        "comment": "果酸與苦味平衡得恰到好處。",
+        "created_at": "2024/5/1"
+    },
+    {
+        "user_id": "23",
+        "product_id": "5",
+        "score": "5",
+        "comment": "真的好好喝，尤其是餘韻。",
+        "created_at": "2024/5/13"
+    },
+    {
+        "user_id": "24",
+        "product_id": "6",
+        "score": "4",
+        "comment": "淡淡的果香味，超棒的！",
+        "created_at": "2024/5/20"
+    },
+    {
+        "user_id": "25",
+        "product_id": "7",
+        "score": "5",
+        "comment": "濃郁的味道和香氣，超級棒。",
+        "created_at": "2024/5/18"
+    },
+    {
+        "user_id": "26",
+        "product_id": "8",
+        "score": "4",
+        "comment": "非常順滑，喝了很滿足。",
+        "created_at": "2024/3/9"
+    },
+    {
+        "user_id": "27",
+        "product_id": "9",
+        "score": "5",
+        "comment": "香氣非常迷人，口感也很棒，香味持久，會再回購。",
+        "created_at": "2024/5/20"
+    }
+]

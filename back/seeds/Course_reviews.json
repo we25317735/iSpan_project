@@ -1,0 +1,180 @@
+[
+    { "course_id": 1, "user_id": 5, "user_review": "非常實用的課程，學到了很多咖啡機操作技巧。" },
+  { "course_id": 1, "user_id": 12, "user_review": "老師教學認真，課程內容豐富，值得推薦。" },
+  { "course_id": 1, "user_id": 24, "user_review": "對於咖啡師來說是一個必修課，非常專業。" },
+  { "course_id": 1, "user_id": 33, "user_review": "課程設備一流，教學內容易懂，很滿意。" },
+  { "course_id": 1, "user_id": 8, "user_review": "對咖啡行業有了全新的認識，真是受益匪淺。" },
+  { "course_id": 1, "user_id": 17, "user_review": "基礎知識講解很透徹，新手也能輕鬆理解。" },
+  { "course_id": 1, "user_id": 29, "user_review": "課程結構合理，講師講解清晰，非常棒。" },
+  { "course_id": 1, "user_id": 42, "user_review": "深入淺出的教學風格，非常適合剛入門的朋友。" },
+
+  { "course_id": 2, "user_id": 8, "user_review": "對咖啡行業有了全新的認識，真是受益匪淺。" },
+  { "course_id": 2, "user_id": 17, "user_review": "基礎知識講解很透徹，新手也能輕鬆理解。" },
+  { "course_id": 2, "user_id": 29, "user_review": "課程結構合理，講師講解清晰，非常棒。" },
+  { "course_id": 2, "user_id": 42, "user_review": "深入淺出的教學風格，非常適合剛入門的朋友。" },
+
+  { "course_id": 3, "user_id": 3, "user_review": "感官課程內容豐富，提升了對咖啡風味的敏銳度。" },
+  { "course_id": 3, "user_id": 19, "user_review": "更新後的課程更有趣，學到了不少新知識。" },
+  { "course_id": 3, "user_id": 35, "user_review": "對於咖啡的感官評價有了更深的理解，受益匪淺。" },
+  { "course_id": 3, "user_id": 50, "user_review": "這門課程絕對是咖啡愛好者的必修課，非常推薦。" },
+
+  { "course_id": 4, "user_id": 7, "user_review": "學到了很多關於沖煮咖啡的專業知識，非常實用。" },
+  { "course_id": 4, "user_id": 23, "user_review": "金杯理論深入淺出，對提升咖啡品質有很大幫助。" },
+  { "course_id": 4, "user_id": 31, "user_review": "老師的教學方法非常好，讓我對咖啡有了新的認識。" },
+  { "course_id": 4, "user_id": 47, "user_review": "課程內容豐富且專業，非常適合進階學習。" },
+
+  { "course_id": 5, "user_id": 10, "user_review": "烘焙課程非常專業，深入了解了烘焙技術。" },
+  { "course_id": 5, "user_id": 21, "user_review": "老師非常有經驗，講解了很多實用的技巧。" },
+  { "course_id": 5, "user_id": 32, "user_review": "對未來投身咖啡烘焙行業的人來說，這門課程必修。" },
+  { "course_id": 5, "user_id": 45, "user_review": "通過課程了解了烘焙的核心技術，值得一學。" },
+
+  { "course_id": 6, "user_id": 4, "user_review": "咖啡生豆的知識很全面，學到了很多實用的技能。" },
+  { "course_id": 6, "user_id": 15, "user_review": "內容詳盡，對生豆的處理有了更深的了解。" },
+  { "course_id": 6, "user_id": 28, "user_review": "老師教學細緻，對生豆的認識更加深刻了。" },
+  { "course_id": 6, "user_id": 49, "user_review": "課程非常專業，讓我對生豆有了全新的認識。" },
+
+  { "course_id": 7, "user_id": 9, "user_review": "水質對咖啡的影響非常大，這門課程幫助很大。" },
+  { "course_id": 7, "user_id": 22, "user_review": "學到了很多關於水處理系統的知識，課程非常實用。" },
+  { "course_id": 7, "user_id": 36, "user_review": "預防性維護的知識非常有用，適合日常操作。" },
+  { "course_id": 7, "user_id": 48, "user_review": "對於咖啡機的維護有了更深的了解，課程非常棒。" },
+
+  { "course_id": 8, "user_id": 6, "user_review": "可持續性課程讓我對咖啡產業有了新的認識。" },
+  { "course_id": 8, "user_id": 18, "user_review": "學習了如何在咖啡行業實施可持續性改變，非常有幫助。" },
+  { "course_id": 8, "user_id": 27, "user_review": "對可持續性的理解更加深刻，適合行業專業人士。" },
+  { "course_id": 8, "user_id": 41, "user_review": "課程結構清晰，內容豐富，值得推薦。" },
+
+  { "course_id": 9, "user_id": 2, "user_review": "City & Guilds課程內容非常豐富，對我幫助很大。" },
+  { "course_id": 9, "user_id": 13, "user_review": "學到了很多實用的技能，適合希望進入咖啡行業的人。" },
+  { "course_id": 9, "user_id": 30, "user_review": "這門課程非常實際，為咖啡業的新手提供了很多幫助。" },
+  { "course_id": 9, "user_id": 46, "user_review": "對於希望移民或開店的人來說，這門課程非常有價值。" },
+
+  { "course_id": 10, "user_id": 11, "user_review": "拉花技巧教學非常專業，提升了我的咖啡技能。" },
+  { "course_id": 10, "user_id": 20, "user_review": "TQUK認證課程非常有用，教學內容豐富實用。" },
+  { "course_id": 10, "user_id": 34, "user_review": "課程內容清晰，教學方法專業，非常推薦。" },
+  { "course_id": 10, "user_id": 40, "user_review": "對於想學習拉花的朋友，這門課程是必選。" },
+  { "course_id": 11, "user_id": 14, "user_review": "基礎課程非常紮實，對於入門咖啡師來說很有幫助。" },
+  { "course_id": 11, "user_id": 23, "user_review": "教學內容豐富，涵蓋了各種咖啡技術，推薦參加。" },
+  { "course_id": 11, "user_id": 31, "user_review": "課程內容設計合理，對於想要入門的人很友好。" },
+  { "course_id": 11, "user_id": 47, "user_review": "老師很有耐心，課程進度也剛好，不會太難。" },
+
+  { "course_id": 12, "user_id": 5, "user_review": "Q Grader課程非常專業，對提升咖啡品質評鑒有幫助。" },
+  { "course_id": 12, "user_id": 29, "user_review": "課程內容非常豐富，對於咖啡愛好者來說是個挑戰。" },
+  { "course_id": 12, "user_id": 38, "user_review": "老師教學很詳細，學習過程中獲益良多。" },
+  { "course_id": 12, "user_id": 50, "user_review": "課程難度適中，但也充滿挑戰性，適合進階學員。" },
+
+  { "course_id": 13, "user_id": 3, "user_review": "非常專業的咖啡評級課程，適合有經驗的咖啡師。" },
+  { "course_id": 13, "user_id": 19, "user_review": "課程內容很實用，能夠學到很多專業知識。" },
+  { "course_id": 13, "user_id": 32, "user_review": "教學方式清晰易懂，對提升感官技能很有幫助。" },
+  { "course_id": 13, "user_id": 46, "user_review": "對咖啡品質的提升有很大的幫助，非常專業。" },
+
+  { "course_id": 14, "user_id": 7, "user_review": "拉花課程讓我大開眼界，學到了很多實用技巧。" },
+  { "course_id": 14, "user_id": 22, "user_review": "老師講解的非常詳細，讓人很容易理解和學習。" },
+  { "course_id": 14, "user_id": 33, "user_review": "課程設計合理，從基礎到高階都有涉及，值得學習。" },
+  { "course_id": 14, "user_id": 42, "user_review": "非常棒的拉花課程，適合對咖啡拉花有興趣的人。" },
+
+  { "course_id": 15, "user_id": 11, "user_review": "橙色級別的拉花課程挑戰十足，學習過程很有趣。" },
+  { "course_id": 15, "user_id": 18, "user_review": "適合有拉花基礎的學員，課程內容非常豐富。" },
+  { "course_id": 15, "user_id": 29, "user_review": "學到了很多實用的拉花技巧，對提升水平很有幫助。" },
+  { "course_id": 15, "user_id": 51, "user_review": "課程難度適中，讓我對拉花有了更深的理解。" },
+
+  { "course_id": 16, "user_id": 8, "user_review": "綠色級別課程非常有挑戰性，提升了我的拉花技術。" },
+  { "course_id": 16, "user_id": 25, "user_review": "學到了很多新的技巧，老師教學非常專業。" },
+  { "course_id": 16, "user_id": 34, "user_review": "課程內容很實用，對於進階學員非常合適。" },
+  { "course_id": 16, "user_id": 48, "user_review": "綠色級別的課程難度很適中，讓我學到不少新知識。" },
+
+  { "course_id": 17, "user_id": 13, "user_review": "紅色級別課程充滿挑戰，適合對拉花有更高追求的人。" },
+  { "course_id": 17, "user_id": 20, "user_review": "這堂課真的很棒，學到了很多高階拉花技術。" },
+  { "course_id": 17, "user_id": 35, "user_review": "老師教學細心，對提升拉花技能很有幫助。" },
+  { "course_id": 17, "user_id": 49, "user_review": "紅色級別的課程難度較大，但學到的知識非常實用。" },
+
+  { "course_id": 18, "user_id": 6, "user_review": "黑色級別的課程真的很挑戰，適合專業咖啡師。" },
+  { "course_id": 18, "user_id": 15, "user_review": "課程內容豐富且實用，對拉花技巧的提升很有幫助。" },
+  { "course_id": 18, "user_id": 37, "user_review": "學到了很多高階技巧，課程設計非常合理。" },
+  { "course_id": 18, "user_id": 44, "user_review": "對於希望進一步提升拉花技術的人來說，這堂課非常適合。" },
+
+  { "course_id": 19, "user_id": 2, "user_review": "意大利咖啡師課程非常實用，對於咖啡愛好者是個好選擇。" },
+  { "course_id": 19, "user_id": 16, "user_review": "課程內容非常豐富，涵蓋了多方面的知識。" },
+  { "course_id": 19, "user_id": 30, "user_review": "非常適合初學者的課程，學到了很多有用的知識。" },
+  { "course_id": 19, "user_id": 52, "user_review": "老師教學認真，課程設計合理，適合新手學習。" },
+
+  { "course_id": 20, "user_id": 9, "user_review": "烘焙與品嚐課程內容豐富，適合希望深入了解咖啡的人。" },
+  { "course_id": 20, "user_id": 24, "user_review": "課程教學非常專業，讓我對烘焙技術有了更深的理解。" },
+  { "course_id": 20, "user_id": 39, "user_review": "對咖啡烘焙感興趣的朋友來說，這堂課非常值得參加。" },
+  { "course_id": 20, "user_id": 53, "user_review": "課程內容全面，對於新手和進階學員都非常有幫助。" },
+
+  { "course_id": 21, "user_id": 10, "user_review": "基礎拉花課程教學細緻，讓我從零開始學習拉花。" },
+  { "course_id": 21, "user_id": 28, "user_review": "課程內容豐富，老師講解清晰，適合初學者。" },
+  { "course_id": 21, "user_id": 41, "user_review": "從基礎到進階，這門課程覆蓋了拉花的各個方面。" },
+  { "course_id": 21, "user_id": 54, "user_review": "對於想學習拉花的朋友，這是一門非常棒的入門課程。" },
+
+  { "course_id": 22, "user_id": 14, "user_review": "基礎咖啡師課程非常適合剛入門的學員，內容全面。" },
+  { "course_id": 22, "user_id": 23, "user_review": "老師非常專業，講解了很多實用的技巧。" },
+  { "course_id": 22, "user_id": 31, "user_review": "這門課程對於提升咖啡技術非常有幫助。" },
+  { "course_id": 22, "user_id": 47, "user_review": "課程內容豐富，適合剛開始接觸咖啡的朋友。" },
+
+  { "course_id": 23, "user_id": 11, "user_review": "意式濃縮咖啡課程非常實用，學到了很多咖啡機操作技巧。" },
+  { "course_id": 23, "user_id": 18, "user_review": "老師講解非常清晰，對新手也非常友好。" },
+  { "course_id": 23, "user_id": 33, "user_review": "學到了很多實用的技術，適合想深入了解濃縮咖啡的人。" },
+  { "course_id": 23, "user_id": 45, "user_review": "課程內容豐富，對提升咖啡機操作技能很有幫助。"},
+
+  { "course_id": 24, "user_id": 5, "user_review": "進階拉花課程內容很豐富，適合有基礎的學員。"},
+  { "course_id": 24, "user_id": 19, "user_review": "老師講解非常詳細，學習過程非常有趣。"},
+  { "course_id": 24, "user_id": 38, "user_review": "對於提升拉花技術非常有幫助，課程內容很實用。"},
+  { "course_id": 24, "user_id": 50, "user_review": "進階班的課程設計合理，讓我學到了更多實用的技術。"},
+  
+  { "course_id": 25, "user_id": 8, "user_review": "入門拉花班讓我從零開始學習拉花，過程很有趣。"},
+  { "course_id": 25, "user_id": 15, "user_review": "課程內容豐富，適合剛開始接觸拉花的朋友。"},
+  { "course_id": 25, "user_id": 27, "user_review": "老師教學很細心，對於新手非常友好。"},
+  { "course_id": 25, "user_id": 43, "user_review": "學到了很多實用的技巧，課程進度適中。"},
+  
+  { "course_id": 26, "user_id": 7, "user_review": "烘焙體驗班讓我親手操作，學習過程非常有趣。"},
+  { "course_id": 26, "user_id": 12, "user_review": "課程內容非常實用，對於咖啡愛好者來說很值得參加。"},
+  { "course_id": 26, "user_id": 26, "user_review": "老師講解詳細，讓我對咖啡烘焙有了新的認識。"},
+  { "course_id": 26, "user_id": 37, "user_review": "親手烘焙咖啡豆的過程非常有趣，學到了很多新知識。"},
+  
+  { "course_id": 27, "user_id": 9, "user_review": "杯測和手沖的結合讓我對咖啡有了更深的理解。"},
+  { "course_id": 27, "user_id": 22, "user_review": "課程內容豐富，適合希望提升咖啡品鑒能力的人。"},
+  { "course_id": 27, "user_id": 34, "user_review": "老師教學很細心，讓我學到了很多實用的技巧。"},
+  { "course_id": 27, "user_id": 48, "user_review": "課程設計合理，讓我對咖啡的風味有了更深入的理解。"},
+  
+  { "course_id": 28, "user_id": 6, "user_review": "手沖咖啡課程非常有趣，適合剛接觸咖啡的人。"},
+  { "course_id": 28, "user_id": 17, "user_review": "老師教學非常專業，學習過程很順利。"},
+  { "course_id": 28, "user_id": 28, "user_review": "學到了很多實用的技術，對於咖啡愛好者非常有幫助。"},
+  { "course_id": 28, "user_id": 44, "user_review": "課程內容設計合理，讓我對手沖咖啡有了更深的理解。"},
+  
+  { "course_id": 29, "user_id": 10, "user_review": "手沖和虹吸的結合課程非常有趣，學到了很多新知識。"},
+  { "course_id": 29, "user_id": 21, "user_review": "課程內容豐富，老師講解詳細，適合咖啡愛好者。"},
+  { "course_id": 29, "user_id": 35, "user_review": "手沖和虹吸的搭配非常有趣，學習過程很愉快。"},
+  { "course_id": 29, "user_id": 52, "user_review": "課程內容豐富，適合希望學習不同咖啡沖煮方式的人。"},
+  
+  { "course_id": 30, "user_id": 13, "user_review": "小小咖啡師夏令營讓孩子們學習了很多咖啡知識。"},
+  { "course_id": 30, "user_id": 20, "user_review": "孩子們很喜歡這個夏令營，學到了很多新知識。"},
+  { "course_id": 30, "user_id": 33, "user_review": "非常適合小朋友的課程，老師教學非常有耐心。"},
+  { "course_id": 30, "user_id": 49, "user_review": "孩子們學習的過程非常開心，課程內容豐富有趣。"},
+  
+  { "course_id": 31, "user_id": 4, "user_review": "精品咖啡課程讓我對咖啡有了更深的理解，值得參加。"},
+  { "course_id": 31, "user_id": 15, "user_review": "課程內容豐富，適合希望深入了解咖啡的人。"},
+  { "course_id": 31, "user_id": 25, "user_review": "老師教學專業，課程設計合理，非常滿意。"},
+  { "course_id": 31, "user_id": 36, "user_review": "課程非常實用，適合咖啡愛好者和專業人士。"},
+  
+  { "course_id": 32, "user_id": 14, "user_review": "感官訓練課程非常專業，對提升咖啡風味辨識有幫助。"},
+  { "course_id": 32, "user_id": 23, "user_review": "課程內容豐富，讓我對咖啡的風味有了更深的理解。"},
+  { "course_id": 32, "user_id": 31, "user_review": "老師教學非常細心，課程內容設計合理。"},
+  { "course_id": 32, "user_id": 47, "user_review": "感官訓練課程對於咖啡風味的提升有很大幫助。"},
+  
+  { "course_id": 33, "user_id": 5, "user_review": "土耳其沙煮咖啡體驗課程非常有趣，學到了很多新知識。"},
+  { "course_id": 33, "user_id": 19, "user_review": "課程內容非常豐富，對於咖啡愛好者來說非常值得參加。"},
+  { "course_id": 33, "user_id": 38, "user_review": "老師講解非常詳細，讓我對土耳其咖啡有了新的認識。"},
+  { "course_id": 33, "user_id": 50, "user_review": "親身體驗沙煮咖啡的過程非常有趣，學到了很多新知識。"},
+  
+  { "course_id": 34, "user_id": 8, "user_review": "烘焙理論與實務課程非常實用，對提升技術很有幫助。"},
+  { "course_id": 34, "user_id": 25, "user_review": "課程內容豐富，老師教學專業，適合想深入了解烘焙的人。"},
+  { "course_id": 34, "user_id": 34, "user_review": "學到了很多實用的技術，對於咖啡烘焙非常有幫助。"},
+  { "course_id": 34, "user_id": 48, "user_review": "課程設計合理，對提升咖啡烘焙技術有很大幫助。"},
+  
+  { "course_id": 35, "user_id": 6, "user_review": "咖啡品嚐基礎課程非常適合新手，讓我對咖啡有了新的理解。"},
+  { "course_id": 35, "user_id": 17, "user_review": "課程內容豐富，適合剛接觸咖啡的人，非常值得參加。"},
+  { "course_id": 35, "user_id": 28, "user_review": "老師教學細緻，讓我對咖啡品嚐有了新的認識。"},
+  { "course_id": 35, "user_id": 44, "user_review": "課程設計合理，對提升咖啡品嚐能力非常有幫助。"}
+
+]

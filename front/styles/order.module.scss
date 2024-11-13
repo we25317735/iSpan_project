@@ -1,0 +1,248 @@
+.h1 {
+  font-size: 26px;
+  font-weight: 900;
+  color: #2b4f61;
+  @media screen and (max-width: 576px) {
+    font-size: 18px;
+  }
+}
+
+.h2 {
+  font-size: 20px;
+  font-weight: 900;
+  color: #2b4f61;
+  @media screen and (max-width: 576px) {
+    font-size: 18px;
+  }
+}
+
+.h3 {
+  font-size: 18px;
+  font-weight: 900;
+  color: #2b4f61;
+  @media screen and (max-width: 576px) {
+    font-size: 16px;
+  }
+}
+
+.h4 {
+  font-size: 16px;
+  font-weight: 900;
+  color: #2b4f61;
+  @media screen and (max-width: 576px) {
+    font-size: 12px;
+  }
+}
+
+.h5 {
+  font-size: 14px;
+  color: #2b4f61;
+  font-weight: 900;
+  @media screen and (max-width: 576px) {
+    font-size: 12px;
+  }
+}
+
+.h6 {
+  font-size: 12px;
+  color: #2b4f61;
+
+  @media screen and (max-width: 576px) {
+    font-size: 10px;
+  }
+}
+
+.p {
+  font-size: 12px;
+  font-weight: 900;
+  color: #2b4f61;
+  @media screen and (max-width: 576px) {
+    font-size: 12px;
+  }
+}
+.total {
+  color: #e4960e;
+}
+.cart {
+  background-image: url(../public//images/cart/bg.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  padding-left: 0;
+  // min-height: 1400px;
+  @media screen and (max-width: 391px) {
+    // min-height: 2250px;
+  }
+}
+.cartTitle {
+  margin-top: 100px;
+  @media screen and (max-width: 391px) {
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+}
+.breadcrumb {
+  margin-left: 7vw;
+}
+.back-icon {
+  font-size: 24px;
+  margin-top: 60px;
+  color: #2b4f61;
+}
+.footer {
+  margin-top: 450px;
+}
+.cart-header {
+  .step {
+    color: #b1b5c3;
+    span {
+      width: 40px;
+      height: 40px;
+      background-color: #b1b5c3;
+      color: white;
+      border-radius: 50%;
+      display: grid;
+      place-content: center;
+    }
+  }
+  .step-active {
+    color: #2b4f61;
+    span {
+      background-color: #2b4f61;
+    }
+  }
+}
+@media screen and (max-width: 391px) {
+  .seven {
+    margin-left: -35px;
+  }
+}
+.footer {
+  margin-top: 500px;
+}
+.cart-main {
+  margin-top: 4vw;
+}
+.course-color {
+  color: #e4960e;
+  font-weight: 900;
+}
+.cart-left {
+  margin-left: 3vw;
+  border-radius: 10px;
+  .radio-button {
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+  }
+}
+.cart-right {
+  margin-left: 3vw;
+  border-radius: 10px;
+
+  .cart-right-title {
+    background-color: #2b4f61;
+    border-radius: 7px;
+    color: white;
+  }
+  .right-body-title {
+    background-color: #bfcdd3;
+    border-radius: 5px;
+    color: black;
+  }
+  .product-img {
+    width: 100px;
+    height: 100px;
+  }
+
+  .coupon {
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    // background-color: white;
+    border: 1px solid #2b4f61;
+  }
+  .right-btn {
+    width: 6vw;
+    height: 45px;
+    font-size: 20px;
+    background: #2b4f61;
+    color: white;
+    border-radius: 10px;
+    margin-top: 15px;
+    border: transparent;
+  }
+  .right-btn-next {
+    background-color: #e4960e;
+    color: black;
+  }
+}
+
+/* RWD 391 */
+@media screen and (max-width: 391px) {
+  .cart-header {
+    .step {
+      span {
+        width: 30px;
+        height: 30px;
+      }
+    }
+  }
+  .cart-main {
+    margin-top: 4vw;
+  }
+  .cart-left {
+    margin-left: 0px;
+    width: 88vw;
+  }
+  .cart-right {
+    margin-left: 0px;
+    width: 94vw;
+    .cart-right-title {
+      margin-top: 20px;
+      border-radius: 5px;
+    }
+    .product-img {
+      width: 80px;
+      height: 80px;
+    }
+    .coupon {
+      width: 150px;
+      height: 40px;
+    }
+    .right-btn {
+      width: 70px;
+      height: 40px;
+      font-size: 16px;
+      background: #2b4f61;
+      color: white;
+      border-radius: 10px;
+      margin-top: 15px;
+      border: transparent;
+    }
+    .right-btn-next {
+      background-color: #e4960e;
+      color: black;
+      margin-inline: auto;
+    }
+  }
+}
+.title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 235px;
+}
+.productTitle {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal;
+  width: 235px;
+}

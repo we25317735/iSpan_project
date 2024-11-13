@@ -1,0 +1,78 @@
+.file-btn {
+  width: 80px;
+  height: 30px;
+  // border: 3px solid #a9a7a797;
+  border-radius: 10px;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  // background-color: #cfc4c4;
+
+  background-color: #2b4f61;
+  color: #e4e7e9;
+  cursor: pointer;
+
+  &:hover {
+    // color: aliceblue;
+    // background-color: #a9a5a5;
+    background-color: #c9c9c4;
+    color: #e4e7e9;
+    border: 3px solirgba(201, 198, 198, 0.592) 97;
+  }
+
+  p {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/* 按鈕 */
+.details-btn {
+  width: 120px;
+  height: 45px;
+  // border: 3px solid #2b4f61;
+  border-radius: 16px;
+  cursor: pointer;
+
+  &:hover {
+    background-color: #c9c9c4;
+    color: #e4e7e9;
+  }
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  // background-color: #d8cece;
+  background-color: #2b4f61;
+
+  @media (max-width: 768px) {
+    bottom: 20px;
+    right: 10px;
+  }
+
+  @media (max-width: 391px) {
+    width: 90px;
+    height: 35px;
+    // border: 2px solid #2b4f61;
+    border-radius: 5px;
+
+    transform: translateX(150px) translateY(-100px) !important;
+  }
+
+  p {
+    font-size: 2rem;
+    // color: #2b4f61;
+    color: #ffffff !important;
+    font-weight: 300;
+
+    @media (max-width: 391px) {
+      font-size: 1.5rem !important;
+    }
+  }
+
+  .data-box {
+    width: 100%;
+  }
+}

@@ -1,0 +1,387 @@
+[
+    {
+      "id": 1,
+      "article_id": 15,
+      "user_id": 12,
+      "content": "這個濾杯的介紹很詳細，正好考慮換一個。",
+      "create_time": "2024-08-21 10:15:30"
+    },
+    {
+      "id": 2,
+      "article_id": 28,
+      "user_id": 33,
+      "content": "濃縮咖啡的知識又增加了，謝謝分享！",
+      "create_time": "2024-08-21 11:22:45"
+    },
+    {
+      "id": 3,
+      "article_id": 44,
+      "user_id": 5,
+      "content": "咖啡機篇真的幫了我很多忙，推薦給朋友們。",
+      "create_time": "2024-08-21 12:10:01"
+    },
+    {
+      "id": 4,
+      "article_id": 9,
+      "user_id": 18,
+      "content": "第一次聽說這種特殊的處理法，真是長知識了。",
+      "create_time": "2024-08-21 13:45:12"
+    },
+    {
+      "id": 5,
+      "article_id": 55,
+      "user_id": 29,
+      "content": "保存咖啡豆的方法學到很多，感謝分享！",
+      "create_time": "2024-08-21 14:30:20"
+    },
+    {
+      "id": 6,
+      "article_id": 3,
+      "user_id": 44,
+      "content": "深焙和淺焙的差異講解得很清楚，很受用。",
+      "create_time": "2024-08-21 15:18:45"
+    },
+    {
+      "id": 7,
+      "article_id": 61,
+      "user_id": 22,
+      "content": "咖啡品飲篇真是太詳細了，每個步驟都有學到東西。",
+      "create_time": "2024-08-21 16:05:30"
+    },
+    {
+      "id": 8,
+      "article_id": 22,
+      "user_id": 37,
+      "content": "法式濾壓這個配件果然不簡單，介紹得很到位。",
+      "create_time": "2024-08-21 16:52:17"
+    },
+    {
+      "id": 9,
+      "article_id": 30,
+      "user_id": 23,
+      "content": "調整萃取參數的技巧很有幫助，謝謝。",
+      "create_time": "2024-08-21 17:40:05"
+    },
+    {
+      "id": 10,
+      "article_id": 14,
+      "user_id": 50,
+      "content": "學會了如何正確用水沖咖啡，太棒了！",
+      "create_time": "2024-08-21 18:25:50"
+    },
+    {
+        "id": 11,
+        "article_id": 7,
+        "user_id": 21,
+        "content": "沒想到咖啡豆的風味還可以這麼豐富，學到了！",
+        "create_time": "2024-08-21 19:10:23"
+      },
+      {
+        "id": 12,
+        "article_id": 40,
+        "user_id": 9,
+        "content": "對於不同咖啡機型的比較真的很有幫助，謝謝！",
+        "create_time": "2024-08-21 19:45:32"
+      },
+      {
+        "id": 13,
+        "article_id": 12,
+        "user_id": 14,
+        "content": "這個沖煮技巧很實用，下次試試看！",
+        "create_time": "2024-08-21 20:05:47"
+      },
+      {
+        "id": 14,
+        "article_id": 33,
+        "user_id": 28,
+        "content": "學會了如何在家裡製作冰滴咖啡，太感謝了！",
+        "create_time": "2024-08-21 20:32:14"
+      },
+      {
+        "id": 15,
+        "article_id": 18,
+        "user_id": 6,
+        "content": "剛買了新的咖啡機，這篇文章對我幫助很大。",
+        "create_time": "2024-08-21 21:10:08"
+      },
+      {
+        "id": 16,
+        "article_id": 49,
+        "user_id": 17,
+        "content": "介紹的這個咖啡豆真心不錯，已經下單了！",
+        "create_time": "2024-08-21 21:55:39"
+      },
+      {
+        "id": 17,
+        "article_id": 25,
+        "user_id": 30,
+        "content": "萃取壓力對風味的影響太有趣了，受益匪淺。",
+        "create_time": "2024-08-21 22:22:56"
+      },
+      {
+        "id": 18,
+        "article_id": 54,
+        "user_id": 32,
+        "content": "保存咖啡豆的方法果然有學問，感謝分享。",
+        "create_time": "2024-08-21 22:45:17"
+      },
+      {
+        "id": 19,
+        "article_id": 2,
+        "user_id": 41,
+        "content": "深入淺出地講解了不同烘焙度的差異，受益匪淺。",
+        "create_time": "2024-08-21 23:05:48"
+      },
+      {
+        "id": 20,
+        "article_id": 35,
+        "user_id": 4,
+        "content": "最近正打算換濾杯，這篇文章來得正是時候！",
+        "create_time": "2024-08-21 23:25:20"
+      },
+      {
+        "id": 21,
+        "article_id": 10,
+        "user_id": 6,
+        "content": "感謝分享，這讓我更了解如何挑選適合的咖啡豆。",
+        "create_time": "2024-08-21 23:45:12"
+      },
+      {
+        "id": 22,
+        "article_id": 15,
+        "user_id": 7,
+        "content": "學到了不少沖煮技巧，真的很實用！",
+        "create_time": "2024-08-22 00:12:37"
+      },
+      {
+        "id": 23,
+        "article_id": 26,
+        "user_id": 6,
+        "content": "這篇文章幫我解決了困擾已久的咖啡保存問題，謝謝！",
+        "create_time": "2024-08-22 00:30:44"
+      },
+      {
+        "id": 24,
+        "article_id": 42,
+        "user_id": 7,
+        "content": "介紹的咖啡機很棒，已經推薦給朋友了。",
+        "create_time": "2024-08-22 00:48:56"
+      },
+      {
+        "id": 25,
+        "article_id": 5,
+        "user_id": 6,
+        "content": "這種風味的豆子我還沒嘗試過，準備試試看。",
+        "create_time": "2024-08-22 01:15:33"
+      },
+      {
+        "id": 26,
+        "article_id": 20,
+        "user_id": 7,
+        "content": "濾泡的技巧真的是一門藝術，這篇文章點醒了我。",
+        "create_time": "2024-08-22 01:32:50"
+      },
+      {
+        "id": 27,
+        "article_id": 32,
+        "user_id": 6,
+        "content": "文章中的配方真的很棒，咖啡喝起來完全不一樣了！",
+        "create_time": "2024-08-22 01:50:12"
+      },
+      {
+        "id": 28,
+        "article_id": 13,
+        "user_id": 7,
+        "content": "現在我終於明白如何選擇適合自己的烘焙度了。",
+        "create_time": "2024-08-22 02:07:45"
+      },
+      {
+        "id": 29,
+        "article_id": 50,
+        "user_id": 6,
+        "content": "文章寫得很詳細，對我很有幫助。",
+        "create_time": "2024-08-22 02:25:18"
+      },
+      {
+        "id": 30,
+        "article_id": 37,
+        "user_id": 7,
+        "content": "這篇文章幫助我大大提升了萃取的成功率。",
+        "create_time": "2024-08-22 02:42:59"
+      },
+      {
+        "id": 31,
+        "article_id": 18,
+        "user_id": 6,
+        "content": "這個咖啡豆的選擇指南太實用了！",
+        "create_time": "2024-08-22 09:15:00"
+      },
+      {
+        "id": 32,
+        "article_id": 28,
+        "user_id": 7,
+        "content": "烘焙度的介紹讓我大開眼界，非常受用。",
+        "create_time": "2024-08-22 09:22:47"
+      },
+      {
+        "id": 33,
+        "article_id": 14,
+        "user_id": 6,
+        "content": "剛剛試了一下文章中的建議，效果很不錯。",
+        "create_time": "2024-08-22 09:35:22"
+      },
+      {
+        "id": 34,
+        "article_id": 36,
+        "user_id": 7,
+        "content": "文章寫得很有條理，學到很多。",
+        "create_time": "2024-08-22 09:48:09"
+      },
+      {
+        "id": 35,
+        "article_id": 23,
+        "user_id": 6,
+        "content": "分享的知識讓我對咖啡有了更深的理解，感謝！",
+        "create_time": "2024-08-22 10:01:15"
+      },
+      {
+        "id": 36,
+        "article_id": 44,
+        "user_id": 7,
+        "content": "有了這些技巧，我的手沖咖啡明顯變好喝了！",
+        "create_time": "2024-08-22 10:14:33"
+      },
+      {
+        "id": 37,
+        "article_id": 8,
+        "user_id": 6,
+        "content": "這次挑選的豆子真的很符合我的口味。",
+        "create_time": "2024-08-22 10:27:54"
+      },
+      {
+        "id": 38,
+        "article_id": 29,
+        "user_id": 7,
+        "content": "現在我可以輕鬆辨別不同咖啡豆的風味了，謝謝這篇文章。",
+        "create_time": "2024-08-22 10:40:21"
+      },
+      {
+        "id": 39,
+        "article_id": 12,
+        "user_id": 6,
+        "content": "這篇文章對於初學者來說真的是太棒了！",
+        "create_time": "2024-08-22 10:53:09"
+      },
+      {
+        "id": 40,
+        "article_id": 19,
+        "user_id": 7,
+        "content": "介紹的內容深入淺出，很適合剛接觸咖啡的人。",
+        "create_time": "2024-08-22 11:06:42"
+      },
+      {
+        "id": 41,
+        "article_id": 22,
+        "user_id": 14,
+        "content": "這篇文章對於了解咖啡的歷史背景很有幫助。",
+        "create_time": "2024-08-22 11:20:00"
+      },
+      {
+        "id": 42,
+        "article_id": 35,
+        "user_id": 27,
+        "content": "介紹的手沖技巧真的是點睛之筆，太棒了！",
+        "create_time": "2024-08-22 11:33:25"
+      },
+      {
+        "id": 43,
+        "article_id": 5,
+        "user_id": 19,
+        "content": "每次閱讀這裡的文章都能學到新東西。",
+        "create_time": "2024-08-22 11:46:30"
+      },
+      {
+        "id": 44,
+        "article_id": 47,
+        "user_id": 33,
+        "content": "這篇文章讓我重新愛上了咖啡。",
+        "create_time": "2024-08-22 12:00:15"
+      },
+      {
+        "id": 45,
+        "article_id": 50,
+        "user_id": 8,
+        "content": "介紹的配件真的很實用，我已經下單了！",
+        "create_time": "2024-08-22 12:13:45"
+      },
+      {
+        "id": 46,
+        "article_id": 31,
+        "user_id": 21,
+        "content": "很少看到這麼全面的咖啡介紹，受益匪淺。",
+        "create_time": "2024-08-22 12:27:08"
+      },
+      {
+        "id": 47,
+        "article_id": 13,
+        "user_id": 40,
+        "content": "我也打算按照文章中的方法來試試看。",
+        "create_time": "2024-08-22 12:40:22"
+      },
+      {
+        "id": 48,
+        "article_id": 42,
+        "user_id": 17,
+        "content": "這篇文章讓我對咖啡豆的認識更加深入。",
+        "create_time": "2024-08-22 12:53:37"
+      },
+      {
+        "id": 49,
+        "article_id": 6,
+        "user_id": 3,
+        "content": "內容非常豐富且有用，已經收藏了！",
+        "create_time": "2024-08-22 13:07:12"
+      },
+      {
+        "id": 50,
+        "article_id": 40,
+        "user_id": 55,
+        "content": "文章中的建議幫助我解決了一直困擾的問題。",
+        "create_time": "2024-08-22 13:20:48"
+      },
+      {
+        "id": 51,
+        "article_id": 61,
+        "user_id": 23,
+        "content": "這篇文章對烘焙的講解真是太詳細了，學到很多！",
+        "create_time": "2024-08-22 14:00:15"
+      },
+      {
+        "id": 52,
+        "article_id": 61,
+        "user_id": 7,
+        "content": "每次閱讀這類文章都覺得自己對咖啡又多了一層認識。",
+        "create_time": "2024-08-22 14:12:30"
+      },
+      {
+        "id": 53,
+        "article_id": 61,
+        "user_id": 36,
+        "content": "看完這篇文章後，我更加想嘗試自己烘焙咖啡豆了！",
+        "create_time": "2024-08-22 14:25:45"
+      },
+      {
+        "id": 54,
+        "article_id": 61,
+        "user_id": 10,
+        "content": "之前不懂的部分，這篇文章幫我解答了不少疑惑。",
+        "create_time": "2024-08-22 14:38:22"
+      },
+      {
+        "id": 55,
+        "article_id": 61,
+        "user_id": 12,
+        "content": "這篇文章的內容非常實用，收藏了！",
+        "create_time": "2024-08-22 14:51:08"
+      }
+  ]

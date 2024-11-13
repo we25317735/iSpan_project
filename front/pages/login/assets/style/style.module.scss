@@ -1,0 +1,130 @@
+#login {
+  width: 100%;
+  position: relative;
+  overflow: hidden; // 確保超出範圍的部分不會顯示
+  background: url(../img/bg.png);
+
+  .bg-img {
+    width: 150%;
+    position: absolute;
+    bottom: 0;
+  }
+
+  .bg-1 {
+    // 藍色
+    bottom: -620px;
+    right: -80px;
+    animation: animation-1 5s ease-in-out infinite;
+    animation-delay: 0s;
+    filter: drop-shadow(2px -2px 2px rgba(0, 0, 0, 0.4));
+  }
+
+  .bg-2 {
+    // 黑色
+    bottom: -650px;
+    right: -700px;
+    animation: animation-1 5s ease-in-out infinite;
+    animation-delay: -3s;
+    filter: drop-shadow(2px -2px 2px rgba(0, 0, 0, 0.4));
+  }
+
+  .bg-3 {
+    // 灰色
+    width: 200%;
+    height: 100%;
+    bottom: -640px;
+    right: -130px;
+    animation: animation-1 5s ease-in-out infinite;
+    animation-delay: -6s;
+    filter: drop-shadow(2px -2px 2px rgba(0, 0, 0, 0.4));
+  }
+
+  .bg-4 {
+    // 白色
+    width: 200%;
+    height: 100%;
+    bottom: -620px;
+    right: -1300px;
+    filter: drop-shadow(2px -2px 2px rgba(0, 0, 0, 0.4));
+    animation: animation-1 5s ease-in-out infinite;
+    animation-delay: -9s;
+  }
+
+  .bg-fidex {
+    width: 100vw;
+    height: auto;
+    min-height: 400px;
+    top: 20px;
+    left: 0;
+    animation: animation-2 5s ease-in-out infinite;
+  }
+
+  .xxx {
+    top: 400px;
+    left: 320px;
+    width: 200px;
+    height: 200px;
+    z-index: 99;
+    animation: animation-2 5s ease-in-out infinite;
+    filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.4));
+  }
+}
+@media screen and (max-width: 390px) {
+  #login {
+    .bg-fidex {
+      display: none;
+    }
+    .xxx {
+      display: none;
+    }
+    .bg-3 {
+      display: none;
+    }
+  }
+}
+
+// 改進後的動畫定義
+@keyframes animation-1 {
+  0%,
+  100% {
+    transform: translateY(0) translateX(70px); // 初始位置和最終位置一致
+  }
+  25% {
+    transform: translateY(-40px) translateX(-70px); // 更大幅度的上移動及左移動
+  }
+  50% {
+    transform: translateY(0) translateX(70px); // 回到原始 Y 位置並向右移動
+  }
+  75% {
+    transform: translateY(40px) translateX(-70px); // 更大幅度的下移動及左移動
+  }
+}
+
+@keyframes animation-2 {
+  0%,
+  100% {
+    transform: translateY(70px) translateX(0); // 初始位置和最終位置一致
+  }
+
+  50% {
+    transform: translateY(0) translateX(0px); // 回到原始 Y 位置並向右移動
+  }
+}
+
+@keyframes animation-3 {
+  0% {
+    transform: translateY(0) rotate(0deg); /* 初始位置和旋轉 */
+  }
+  25% {
+    transform: translateY(-170px) rotate(0deg); /* 上移 170px */
+  }
+  50% {
+    transform: translateY(-170px) rotate(1080deg); /* 旋轉三圈 */
+  }
+  75% {
+    transform: translateY(0) rotate(0deg); /* 返回原始位置，繼續旋轉三圈 */
+  }
+  100% {
+    transform: translateY(0) rotate(0deg); /* 返回原始位置，旋轉再多一圈 */
+  }
+}

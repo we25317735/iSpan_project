@@ -1,0 +1,175 @@
+.detailed-item {
+  // background-color: #961414;
+
+  .img-box {
+    width: 250px;
+    height: 150px;
+    margin-top: 0px;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+
+      @media (max-width: 391px) {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+      }
+    }
+
+    @media (max-width: 391px) {
+      width: 1700px;
+      height: 120px;
+    }
+  }
+
+  h3 {
+    font-size: 2.4rem;
+
+    @media (max-width: 768px) {
+      font-size: 2rem;
+    }
+
+    @media (max-width: 391px) {
+      width: 150px;
+
+      font-size: 1.6rem;
+    }
+  }
+
+  h4 {
+    font-size: 3.5rem;
+
+    @media (max-width: 768px) {
+      right: 180px;
+      bottom: 180px;
+      text-wrap: nowrap;
+      position: absolute;
+    }
+
+    @media (max-width: 390px) {
+      position: static;
+      font-size: 3rem;
+    }
+  }
+
+  p {
+    margin: 0;
+  }
+
+  // 按鈕區域
+  .btn-box {
+    margin-left: 70px;
+    margin-top: 80px;
+    padding: 10px 15px;
+    border: 2px solid #000000;
+    border-radius: 16px;
+    display: inline-block;
+    font-size: 2rem;
+    background-color: #d8cece;
+
+    @media (max-width: 768px) {
+      position: absolute;
+      right: 100px;
+      bottom: 350px;
+    }
+
+    @media (max-width: 390px) {
+      margin-top: 40px;
+      font-size: 2rem;
+      font-weight: 600;
+      position: static;
+    }
+  }
+
+  .all-amount {
+    width: 80px;
+    height: 40px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+
+    background-color: #2b4f61;
+
+    @media (max-width: 390px) {
+      width: 45px;
+      height: 25px;
+      font-size: 1.2rem;
+    }
+  }
+
+  /* 訂單金額 */
+  .amount {
+    font-size: 2rem;
+
+    @media (max-width: 768px) {
+      // width: 450px;
+      font-size: 1.2rem;
+    }
+  }
+}
+
+/* 檢視明細 按鈕 */
+.details-btn {
+  width: 120px !important;
+  height: 50px !important;
+  padding: 15px 10px !important;
+  border-radius: 8px;
+  border: none;
+  // border: 3px solid #d0d3d5;
+  font-size: 1.9rem !important;
+  font-weight: 600;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  // background-color: #eae4e4;
+  background-color: #2b4f61;
+  color: #e4e7e9;
+
+  &:hover {
+    background-color: #c9c9c4;
+    color: #e4e7e9;
+  }
+
+  @media (max-width: 768px) {
+    bottom: 20px;
+    right: 10px;
+  }
+
+  @media (max-width: 391px) {
+    // bottom: 5px !important;
+    width: 50px !important;
+    height: 25px !important;
+    padding: 10px 5px !important;
+    border-radius: 5px;
+    font-size: 0.9rem !important;
+  }
+
+  p {
+    font-size: 2rem;
+    color: #2b4f61;
+    font-weight: 700;
+
+    @media (max-width: 391px) {
+      font-size: 1.1rem;
+    }
+  }
+
+  .data-box {
+    width: 100%;
+
+    h3 {
+      // font-size: rem;
+      @media (max-width: 391px) {
+        font-size: 1rem !important;
+      }
+    }
+  }
+}
+
+///////

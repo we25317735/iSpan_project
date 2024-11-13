@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "sn": "09fdab8a-6185-4484-8bea-c47d85647d8b",
+    "name": "我是商品1我是商品1我是商品1",
+    "photos": "t5.jpg,t4.jpg,t1.jpg",
+    "stock": 90,
+    "price": 100,
+    "info": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "brand_id": 3,
+    "cat_id": 9,
+    "color": "2,3,4,1",
+    "tag": "2,1",
+    "size": "3,4,1,2"
+  },
+  {
+    "id": 2,
+    "sn": "da94bfac-49e7-490e-b02b-7412e5942d0c",
+    "name": "我是商品2我是商品2我是商品2",
+    "photos": "t4.jpg,t5.jpg,t1.jpg",
+    "stock": 20,
+    "price":200,
+    "info": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "brand_id": 4,
+    "cat_id": 6,
+    "color": "1,4,3,2",
+    "tag": "2",
+    "size": "3"
+  },
+  {
+    "id": 3,
+    "sn": "e21f9142-7dbd-4094-aca1-69405e0aefe7",
+    "name": "我是商品3我是商品3我是商品3",
+    "photos": "t1.jpg,t4.jpg,t3.jpg",
+    "stock": 90,
+    "price": 300,
+    "info": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "brand_id": 4,
+    "cat_id": 4,
+    "color": "2,3,1",
+    "tag": "3,2",
+    "size": "3,2,1"
+  },
+  {
+    "id": 4,
+    "sn": "e6050922-e074-430b-b4ad-235c9d7ce43a",
+    "name": "我是商品4我是商品4我是商品4",
+    "photos": "t1.jpg,t5.jpg,t4.jpg",
+    "stock": 20,
+    "price": 400,
+    "info": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "brand_id": 2,
+    "cat_id": 6,
+    "color": "4",
+    "tag": "2,3",
+    "size": "2"
+  },
+  {
+    "id": 5,
+    "sn": "1aa6729e-52d3-4771-9744-ee8008d4ccdd",
+    "name": "我是商品5我是商品5我是商品5",
+    "photos": "t1.jpg,t3.jpg,t2.jpg",
+    "stock": 70,
+    "price": 500,
+    "info": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "brand_id": 2,
+    "cat_id": 11,
+    "color": "1,4,3",
+    "tag": "1",
+    "size": "3,2,4"
+  }
+]
